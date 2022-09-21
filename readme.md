@@ -21,7 +21,3 @@
    - ping lfts.isw811.xyz
 
 4. Los pings deben ser exitosos a todos los dominios
-
-## Index
-
-- [Workshop #1](../WorkShop1/readme.md)
